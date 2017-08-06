@@ -96,11 +96,13 @@ h3 {
 .footer .pure-menu a:focus {
     background: none;
 }
+
 #picture {
     height: 100vh;
     background-image: url(sharge.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 
