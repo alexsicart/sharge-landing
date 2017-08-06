@@ -1,0 +1,21 @@
+{
+  "name": "sharge-landing",
+  "version": "1.0.0",
+  "description": "Sharge webpage",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsicart/sharge-landing.git"
+  },
+  "author": "Alex Sicart Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsicart/sharge-landing/issues"
+  },
+  "homepage": "https://github.com/alexsicart/sharge-landing#readme"
+}
